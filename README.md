@@ -1,2 +1,2 @@
 # meetup-vr-frontend-react
-MeetUp VR Frontend ReactJS
+MeetUp VR Frontend using ReactJS

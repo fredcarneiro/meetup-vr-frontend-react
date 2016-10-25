@@ -1,0 +1,16 @@
+25/10/2016
+
+Configurando o projeto.
+
+/* setup a new project managed by npm */
+npm init
+
+/* installing production dependency */
+npm install react react-dom --save
+
+/* installing development dependency */
+/* BABEL - transpile ES6 code to ES5 code */
+npm install webpack webpack-dev-server babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-2 --save
+
+/* run the server */
+npm start
